@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Basele&label=Visitor+Count&color=0000FF&style=plastic)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Camel+Herder;Poet;Social+Democrat)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0000FF&size=35&height=50&lines=Software+Engineer;Camel+Herder;Poet;Social+Democrat)](https://git.io/typing-svg)
 
 ## About me
 * :books: **Education:** BSc. Computer Science
