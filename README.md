@@ -1,7 +1,7 @@
 # <span style="color: rgb(271,58,124)">Basele Stephen, the Software Engineer!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basele-stephen/)
 
 
-![](https://komarev.com/ghpvc/?username=Basele&label=Visitor+Count&color=ff3a7c&style=plastic)
+![](https://komarev.com/ghpvc/?username=Basele&label=Visitor+Count&color=0000FF&style=plastic)
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Camel+Herder;Poet;Social+Democrat)](https://git.io/typing-svg)
 
