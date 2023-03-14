@@ -13,8 +13,21 @@
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** The World on my shoulders :earth_africa:
 
-## My Work:
--
+
+|My github statistics|Github Streak|My languages|GitHub profile views|
+|-|-|-|-|
+|[![Basele's github stats](https://github-readme-stats.vercel.app/api?username=Basele&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/Basele)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Basele&theme=ads-juicy-fresh)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basele&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Basele)|![Visitors](https://profile-counter.glitch.me/%7BBasele%7D/count.svg)|
+
+
+<p align="center">
+  <a href="https://github.com/Basele?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Basele?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+  <a href="https://github.com/Basele?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Basele?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+<!--  <a href="https://github.com/Basele/simple-counter">
+    <img alt="GitHub profile views" title="GitHub profile views" src="https://simple-counter.infinityfreeapp.com/" /></a> -->  <br>
+ <a href="https://ko-fi.com/basele"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi" /></a> <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
+ </p>
 
 
 
