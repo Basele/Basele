@@ -7,7 +7,7 @@
 
 ## About me
 * :books: **Education:** BSc. Computer Science
-* :heart: **Loves:** Programming, Camels, Coffee
+* :heart: **Loves:** Coding , Camels, Coffee
 * :pushpin: **Location:** Nanyuki, Kenya
 * **Current activity:** ALX Software Engineer Student"  : (<a href="mailto:gbasele@gmail.com?subject=How's ALX SE going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how theALX SE is going on :)">ask me how this is going</a>)
 * **Next stop:** Senior Software Engineer :computer:
